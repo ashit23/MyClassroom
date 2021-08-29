@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FullScreen">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:src="@drawable/dox"
+        android:layout_height="400dp"/>
+
+    <RelativeLayout
+        android:id="@+id/marks"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/image"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/namel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:gravity="center_horizontal">
+        <EditText
+            android:id="@+id/rollOfStudent"
+            android:layout_width="344dp"
+            android:layout_height="41dp"
+            android:layout_marginTop="70dp"
+            android:ems="10"
+            android:hint="Enter Roll number"
+            android:inputType="textPersonName"
+            android:textSize="17dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.432"
+            app:layout_constraintStart_toStartOf="parent" />
+
+    </LinearLayout>
+        <LinearLayout
+            android:id="@+id/subjectl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/namel"
+            android:gravity="center_horizontal">
+            <EditText
+                android:id="@+id/marksObtained"
+                android:layout_width="344dp"
+                android:layout_height="41dp"
+                android:layout_marginTop="30dp"
+                android:ems="10"
+                android:hint="Marks out of 100"
+                android:inputType="textPersonName"
+                android:textSize="17dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent" />
+
+        </LinearLayout>
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/subjectl"
+            android:gravity="center_horizontal">
+
+            <Button
+                android:id="@+id/uploadMarks"
+                android:layout_width="190dp"
+                android:layout_marginTop="70dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/round_btn"
+                android:text="Upload Marks"/>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

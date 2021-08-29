@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/assignment"
+            android:icon="@drawable/assignme"
+            android:title="Assignments" />
+        <item
+            android:id="@+id/test"
+            android:icon="@drawable/tes"
+            android:title="Tests" />
+        <item
+            android:id="@+id/calender"
+            android:icon="@drawable/cal"
+            android:title="Calender" />
+        <item
+            android:id="@+id/submitted"
+            android:icon="@drawable/dox"
+            android:title="Submitted Assignments/Tests" />
+        <item
+            android:id="@+id/result"
+            android:icon="@drawable/res"
+            android:title=" Results " />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout"
+            android:title="Logout" />
+    </group>
+</menu>
