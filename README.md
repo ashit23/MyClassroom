@@ -6,8 +6,8 @@ It also allows the teachers to view the assignments of students and give marks a
 # Screenshots
 
 
-<a href="(https://user-images.githubusercontent.com/74149479/131261989-8c527642-20cf-4d5f-82ec-568fee041005.jpeg" />
-<img width="23%" src="(https://user-images.githubusercontent.com/74149479/131261989-8c527642-20cf-4d5f-82ec-568fee041005.jpeg" alt="Scan Input" title="Scan Input"></img>
+<a href="https://user-images.githubusercontent.com/74149479/131261989-8c527642-20cf-4d5f-82ec-568fee041005.jpeg" />
+<img width="23%" src="https://user-images.githubusercontent.com/74149479/131261989-8c527642-20cf-4d5f-82ec-568fee041005.jpeg" alt="Scan Input" title="Scan Input"></img>
 
 <a href="https://user-images.githubusercontent.com/74149479/131262026-b00af1e2-06fb-4728-b189-3025f0f04689.jpeg" />
 <img width="23%" src="https://user-images.githubusercontent.com/74149479/131262026-b00af1e2-06fb-4728-b189-3025f0f04689.jpeg" alt="Scan Points" title="Scan Points"></img>
@@ -17,3 +17,7 @@ It also allows the teachers to view the assignments of students and give marks a
 
 <a href="https://user-images.githubusercontent.com/74149479/131262064-e6f785c8-5680-4bc2-ae12-4ef174e4cdb5.jpeg" />
 <img width="23%" src="https://user-images.githubusercontent.com/74149479/131262064-e6f785c8-5680-4bc2-ae12-4ef174e4cdb5.jpeg" alt="Scanned Result" title="Scanned Result"></img>
+
+
+<a href="https://user-images.githubusercontent.com/74149479/131262109-9a95de01-2da4-4781-81b5-50c6755296a2.jpeg" />
+<img width="23%" src="https://user-images.githubusercontent.com/74149479/131262109-9a95de01-2da4-4781-81b5-50c6755296a2.jpeg" alt="Scanned Result" title="Scanned Result"></img>
